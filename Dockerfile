@@ -1,4 +1,4 @@
-FROM persapiens/oraclejdk:8u121
+FROM persapiens/oraclejdk:8u131
 MAINTAINER Marcelo Fernandes <persapiens@gmail.com>
 
 ENV MAVEN_HOME /usr/share/maven
